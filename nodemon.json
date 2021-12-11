@@ -1,7 +1,0 @@
- {
-   "env": {
-     "MONGO_USER":"cookie",
-     "MONGO_PASSWORD": "fivt70LKKqMDx8Ej",
-     "MONGO_DB": "events-react-dev"
-   }
- }
